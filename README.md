@@ -9,7 +9,7 @@ Bienvenido a este nuevo curso de Tecnologías 2020, un curso práctico para apre
 
 Herramientas necesarias para iniciar el curso:
 
-* [Visual Studio Code https://code.visualstudio.com/] (https://code.visualstudio.com/)
+* [Visual Studio Code https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 
 
