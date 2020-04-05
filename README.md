@@ -1,6 +1,5 @@
 # Curso de Tecnologias 2020
 
-
 Bienvenido a este nuevo curso de Tecnologías 2020, un curso práctico para aprender utilizar recursos como GIT, GitHub, Docker, .net WEP API, Azure (Aplicaciones web y SQL Server en Azure) y algo de Angular 7+.
 
 ## Consideraciones Iniciales
@@ -9,8 +8,22 @@ Bienvenido a este nuevo curso de Tecnologías 2020, un curso práctico para apre
 
 Herramientas necesarias para iniciar el curso:
 
+* [Git for Windows](https://git-scm.com/download/win)
 * [Visual Studio Code https://code.visualstudio.com/](https://code.visualstudio.com/)
+* [GitExtensions for Windows](https://github.com/gitextensions/gitextensions/releases)
+* [GitHub for Windows](https://desktop.github.com/)
+
+### Para Visual Studio Code se recomiendan las siguientes Extensiones (Extensions)
+* [Liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+* [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+* [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
+
+De preferencia instala todo en el orden en el que se encuentran listados aunque no es mandatorio éste orden.
 
 
 
-Repositorio con las herramientas que se van a utilizar para realizar una actualización de conocimientos como desarrollador en 2020
+-------------------------------------
+Espero que éste contenido sea de mucha utilidad y te ayude a darle una mejora a tu carrera en la industria de las Tecnologías de la Información.
+(Diego Arturo Barriguete)[https://github.com/dbarriguete] 
+(LinkedIn Diego Arturo Barriguete)[https://www.linkedin.com/in/diego-barriguete/] 
