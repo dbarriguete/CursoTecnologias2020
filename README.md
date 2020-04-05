@@ -6,7 +6,7 @@ Bienvenido a este nuevo curso de Tecnologías 2020, un curso práctico para apre
 
 Éste es un curso express para que conozcas de una forma rápida los conceptos y usos que tienen diferentes tecnologías, no es un curso de introducción a programación o con explicaciones a gran detalle, se proporciona la información necesaria para poder estar participando en un equipo de Desarrollo.
 
-Herramientas necesarias para iniciar el curso: 🛠
+## Herramientas necesarias para iniciar el curso: 🛠
 
 * [Git for Windows](https://git-scm.com/download/win)
 * [Visual Studio Code https://code.visualstudio.com/](https://code.visualstudio.com/)
