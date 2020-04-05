@@ -12,6 +12,7 @@ Herramientas necesarias para iniciar el curso: 🛠
 * [Visual Studio Code https://code.visualstudio.com/](https://code.visualstudio.com/)
 * [GitExtensions for Windows](https://github.com/gitextensions/gitextensions/releases)
 * [GitHub for Windows](https://desktop.github.com/)
+* [Docker for Windows](https://www.docker.com/products/docker-desktop)
 
 ### Para Visual Studio Code se recomiendan las siguientes Extensiones (Extensions) 
 * [Liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
