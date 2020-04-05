@@ -25,5 +25,5 @@ De preferencia instala todo en el orden en el que se encuentran listados aunque 
 
 -------------------------------------
 Espero que éste contenido sea de mucha utilidad y te ayude a darle una mejora 📈 a tu carrera en la industria de las Tecnologías de la Información.
-(Diego Arturo Barriguete)[https://github.com/dbarriguete] 👨‍💻
-(LinkedIn Diego Arturo Barriguete)[https://www.linkedin.com/in/diego-barriguete/] 
+* (Diego Arturo Barriguete)[https://github.com/dbarriguete] 👨‍💻
+* (LinkedIn Diego Arturo Barriguete)[https://www.linkedin.com/in/diego-barriguete/] 
