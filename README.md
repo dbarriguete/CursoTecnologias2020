@@ -15,6 +15,7 @@ Bienvenido a este nuevo curso de Tecnologías 2020, un curso práctico para apre
 * [Docker for Windows](https://www.docker.com/products/docker-desktop)
 * [Microsoft SQL Server Express](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads)
 * [Microsoft Visual Studio Community Edition](https://visualstudio.microsoft.com/es/vs/)
+* [Windows Terminal (Preview)](https://www.microsoft.com/es-mx/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab)
 
 ### Para Visual Studio Code se recomiendan las siguientes Extensiones (Extensions) 
 * [Liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
